@@ -3,7 +3,7 @@ name = "SigmaOS-auth-agents"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "auth-agents component"
+description = "auth agents"
 upstream = []
 
 [contract]
